@@ -17,7 +17,7 @@ keywords: workshop, COLM 2026, high-stakes AI, language models, safety, robustne
 lang: en
 icon: ⚠️
 
-url: https://highstakes-ai-workshop.github.io
+url: https://workshop-highstakes-ai.github.io
 baseurl:
 last_updated: false
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
