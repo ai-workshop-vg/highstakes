@@ -2,7 +2,7 @@
 layout: page
 title: Schedule
 permalink: /schedule/
-description: Full-day workshop schedule for October 9, 2026
+description: Full-day workshop schedule · NeurIPS 2026, Atlanta · December 2026
 nav: true
 nav_order: 2
 ---
