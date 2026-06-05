@@ -9,13 +9,13 @@ nav_order: 3
 
 ## Submission Formats
 
-**Full papers:** Up to 8 pages (excluding references), using the COLM formatting guidelines.
+**Full papers:** Up to 8 pages (excluding references), using the NeurIPS formatting guidelines.
 
 **Short papers / Extended abstracts:** Up to 4 pages describing work in progress, case studies, or position statements.
 
 Submissions will follow a **double-blind review process** and must be anonymized. Workshop papers will be **non-archival**, and authors will retain the right to submit extended versions to archival venues. We use [OpenReview](https://openreview.net) for submission handling.
 
-We particularly encourage submissions from early-career researchers and practitioners, including works in progress, negative or null results, and analyses that may not yet fit the format of a full conference paper but raise important questions for the language modeling community.
+We particularly encourage submissions from early-career researchers and practitioners, including works in progress, negative or null results, and analyses that may not yet fit the format of a full conference paper but raise important questions for the high-stakes AI community.
 
 ---
 
@@ -41,7 +41,7 @@ Across all contributions, we are especially interested in work that uses high-st
 
 ## Review Process
 
-Each submission will be reviewed by at least two reviewers drawn from a program committee consisting of researchers from academia and industry. Reviews will follow a double-blind process and emphasize **relevance, clarity, and potential impact** rather than maturity alone. Conflicts of interest will be handled in accordance with the COLM conflict-of-interest policy.
+Each submission will receive at least three reviews from a program committee consisting of researchers from academia and industry. Reviews will follow a double-blind process and emphasize **relevance, clarity, and potential impact** rather than maturity alone. Conflicts of interest will be handled in accordance with the NeurIPS conflict-of-interest policy.
 
 ---
 
@@ -49,7 +49,8 @@ Each submission will be reviewed by at least two reviewers drawn from a program 
 
 | Milestone | Date (AoE) |
 |:---|:---|
-| Call for Papers Released | Mid May 2026 |
-| Submission Deadline | **June 16, 2026** |
-| Acceptance Notification | July 24, 2026 |
-| Workshop Date | **October 9, 2026** |
+| Call for Papers Released | July 2026 |
+| Submission Deadline | **Late August 2026** |
+| Review Period | September 2026 |
+| Acceptance Notification | By September 29, 2026 |
+| Workshop Date | **December 2026** |

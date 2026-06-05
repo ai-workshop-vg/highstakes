@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Workshop at the Conference on Language Modeling (COLM) 2026 · October 9, 2026
+subtitle: Workshop at NeurIPS 2026 · Atlanta, USA · December 2026
 
 profile:
   align:
@@ -20,11 +20,11 @@ latest_posts:
   enabled: false
 ---
 
-AI When the Stakes are High (AISH) @ COLM 2026 is a workshop focused on the development, deployment, and governance of artificial intelligence (AI) systems in **high-stakes domains**, where AI-assisted decisions can have substantial consequences for individuals, institutions, or society at large. Such domains include finance, healthcare, law, and other settings in which safety, rights, or systemic stability are central concerns.
+AI When the Stakes are High (AISH) @ NeurIPS 2026 is a workshop focused on the development, deployment, and governance of artificial intelligence (AI) systems in **high-stakes domains**, where AI-assisted decisions can have substantial consequences for individuals, institutions, or society at large. Such domains include finance, healthcare, law, and other settings in which safety, rights, or systemic stability are central concerns.
 
-In high-stakes settings, language models are rarely standalone components. Instead, they are embedded in decision pipelines that involve human oversight, delayed or incomplete feedback, uncertainty about downstream consequences, and institutional constraints. These conditions substantially alter what it means to assess performance, reliability, and alignment.
+In high-stakes settings, foundation models are rarely standalone components. Instead, they are embedded in decision pipelines that involve human oversight, delayed or incomplete feedback, uncertainty about downstream consequences, and institutional constraints. These conditions substantially alter what it means to assess performance, reliability, and alignment.
 
-This workshop aims to help build an **interdisciplinary community** that is currently underrepresented within language modeling research — bridging researchers studying foundational properties of language models with practitioners deploying these models in regulated, high-stakes environments.
+This workshop aims to help build an **interdisciplinary community** that is currently underrepresented within foundation model research — bridging researchers studying the foundational properties of these models with practitioners deploying them in regulated, high-stakes environments.
 
 ---
 
@@ -32,10 +32,10 @@ This workshop aims to help build an **interdisciplinary community** that is curr
 
 | Milestone | Date (AoE) |
 |:---|:---|
-| Call for Papers Released | Mid May 2026 |
-| Submission Deadline | **June 16, 2026** |
-| Acceptance Notification | July 24, 2026 |
-| Workshop Date | **October 9, 2026** |
+| Call for Papers Released | July 2026 |
+| Submission Deadline | **Late August 2026** |
+| Acceptance Notification | By September 29, 2026 |
+| Workshop Date | **December 2026** |
 
 ---
 
@@ -52,11 +52,11 @@ This workshop aims to help build an **interdisciplinary community** that is curr
   </div>
 
   <div class="col text-center">
-    <a href="https://scholar.google.com/citations?user=p_Q-xfMAAAAJ">
-      <img src="{{ '/assets/img/speakers/verena_rieser.jpg' | relative_url }}" class="rounded-circle" width="150" height="150" style="object-fit: cover;" alt="Verena Rieser">
+    <a href="https://www.malihealikhani.com/">
+      <img src="{{ '/assets/img/speakers/malihe_alikhani.jpg' | relative_url }}" class="rounded-circle" width="150" height="150" style="object-fit: cover;" alt="Malihe Alikhani">
     </a>
-    <h5 style="margin-top: 0.75rem; margin-bottom: 0.1rem;">Verena Rieser</h5>
-    <p class="text-muted" style="font-size: 0.85rem;">Google DeepMind<br>Heriot-Watt University</p>
+    <h5 style="margin-top: 0.75rem; margin-bottom: 0.1rem;">Malihe Alikhani</h5>
+    <p class="text-muted" style="font-size: 0.85rem;">Northeastern University<br>Brookings Institution</p>
   </div>
 
   <div class="col text-center">
