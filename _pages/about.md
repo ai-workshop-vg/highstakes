@@ -28,16 +28,6 @@ This workshop aims to help build an **interdisciplinary community** that is curr
 
 ---
 
-## Important Dates
-
-| Milestone | Date (AoE) |
-|:---|:---|
-| Call for Papers Released | August 2026 |
-| Submission Deadline | **Late October 2026** |
-| Acceptance Notification | By November 29, 2026 |
-| Workshop Date | **February 2027** |
-
----
 
 ## Invited Speakers
 
@@ -162,4 +152,4 @@ This workshop aims to help build an **interdisciplinary community** that is curr
 
 ## Contact
 
-Questions? Reach us at [email_address@gmail.com](mailto:email_address@gmail.com).
+Questions? Reach us at [ai_workshop_info@proton.me](mailto:ai_workshop_info@proton.me).
