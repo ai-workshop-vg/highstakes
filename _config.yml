@@ -8,12 +8,12 @@ middle_name:
 last_name: Stakes Are High
 contact_note:
 description: >
-  Workshop at NeurIPS 2026 (Atlanta). Focused on the evaluation, reliability, and
+  Workshop at AAAI 2027 (Montreal). Focused on the evaluation, reliability, and
   deployment of foundation models in high-stakes domains.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: workshop, NeurIPS 2026, high-stakes AI, foundation models, evaluation, reliability, trustworthy AI
+keywords: workshop, AAAI 2027, high-stakes AI, foundation models, evaluation, reliability, trustworthy AI
 lang: en
 icon: ⚠️
 
