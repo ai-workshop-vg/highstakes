@@ -9,22 +9,15 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/highstakes/";
     },
-  },{id: "nav-schedule",
-          title: "Schedule",
-          description: "Full-day workshop schedule · NeurIPS 2026, Atlanta · December 2026",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/highstakes/schedule/";
-          },
-        },{id: "nav-call-for-papers",
+  },{id: "nav-call-for-papers",
           title: "Call for Papers",
           description: "Submission guidelines, topics of interest, and review process",
           section: "Navigation",
           handler: () => {
             window.location.href = "/highstakes/cfp/";
           },
-        },{id: "news-workshop-proposal-submitted-to-neurips-2026-atlanta-satellite-call-for-papers-coming-july-2026-stay-tuned",
-          title: 'Workshop proposal submitted to NeurIPS 2026 (Atlanta satellite). Call for papers coming July...',
+        },{id: "news-workshop-proposal-submitted-to-aaai-2027-montreal-canada-call-for-papers-coming-july-2026-stay-tuned",
+          title: 'Workshop proposal submitted to AAAI 2027, Montreal, Canada. Call for papers coming July...',
           description: "",
           section: "News",},{
       id: 'light-theme',
