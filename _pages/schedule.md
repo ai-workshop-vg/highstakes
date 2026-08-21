@@ -3,8 +3,8 @@ layout: page
 title: Schedule
 permalink: /schedule/
 description: Full-day workshop schedule · NeurIPS 2026, Atlanta · December 2026
-nav: true
-nav_order: 2
+nav: false
+
 ---
 
 The workshop is planned as a full-day event (7.5 hours), combining invited talks, contributed presentations, posters, and a panel discussion.

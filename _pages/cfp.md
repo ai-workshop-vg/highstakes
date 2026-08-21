@@ -9,7 +9,7 @@ nav_order: 3
 
 ## Submission Formats
 
-**Full papers:** Up to 8 pages (excluding references), using the NeurIPS formatting guidelines.
+**Full papers:** Up to 8 pages (excluding references), using the AAAI formatting guidelines.
 
 **Short papers / Extended abstracts:** Up to 4 pages describing work in progress, case studies, or position statements.
 
@@ -41,7 +41,7 @@ Across all contributions, we are especially interested in work that uses high-st
 
 ## Review Process
 
-Each submission will receive at least three reviews from a program committee consisting of researchers from academia and industry. Reviews will follow a double-blind process and emphasize **relevance, clarity, and potential impact** rather than maturity alone. Conflicts of interest will be handled in accordance with the NeurIPS conflict-of-interest policy.
+Each submission will receive at least three reviews from a program committee consisting of researchers from academia and industry. Reviews will follow a double-blind process and emphasize **relevance, clarity, and potential impact** rather than maturity alone. Conflicts of interest will be handled in accordance with the AAAI conflict-of-interest policy.
 
 ---
 
@@ -49,8 +49,10 @@ Each submission will receive at least three reviews from a program committee con
 
 | Milestone | Date (AoE) |
 |:---|:---|
-| Call for Papers Released | July 2026 |
-| Submission Deadline | **Late August 2026** |
-| Review Period | September 2026 |
-| Acceptance Notification | By September 29, 2026 |
-| Workshop Date | **December 2026** |
+| Call for Papers Released | August 2026 |
+| Submission Deadline | **Late October 2026** |
+| Review Period | November 2026 |
+| Acceptance Notification | By November 29, 2026 |
+| Workshop Date | **February 2027** |
+
+

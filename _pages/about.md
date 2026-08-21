@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Workshop at NeurIPS 2026 · Atlanta, USA · December 2026
+subtitle: Workshop at AAAI 2027 · Montreal, CA · February 2027
 
 profile:
   align:
@@ -20,7 +20,7 @@ latest_posts:
   enabled: false
 ---
 
-AI When the Stakes are High (AISH) @ NeurIPS 2026 is a workshop focused on the development, deployment, and governance of artificial intelligence (AI) systems in **high-stakes domains**, where AI-assisted decisions can have substantial consequences for individuals, institutions, or society at large. Such domains include finance, healthcare, law, and other settings in which safety, rights, or systemic stability are central concerns.
+AI When the Stakes are High (AISH) @ AAAI 2027 is a workshop focused on the development, deployment, and governance of artificial intelligence (AI) systems in **high-stakes domains**, where AI-assisted decisions can have substantial consequences for individuals, institutions, or society at large. Such domains include finance, healthcare, law, and other settings in which safety, rights, or systemic stability are central concerns.
 
 In high-stakes settings, foundation models are rarely standalone components. Instead, they are embedded in decision pipelines that involve human oversight, delayed or incomplete feedback, uncertainty about downstream consequences, and institutional constraints. These conditions substantially alter what it means to assess performance, reliability, and alignment.
 
@@ -32,10 +32,10 @@ This workshop aims to help build an **interdisciplinary community** that is curr
 
 | Milestone | Date (AoE) |
 |:---|:---|
-| Call for Papers Released | July 2026 |
-| Submission Deadline | **Late August 2026** |
-| Acceptance Notification | By September 29, 2026 |
-| Workshop Date | **December 2026** |
+| Call for Papers Released | August 2026 |
+| Submission Deadline | **Late October 2026** |
+| Acceptance Notification | By November 29, 2026 |
+| Workshop Date | **February 2027** |
 
 ---
 
