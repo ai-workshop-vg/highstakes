@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ai-workshop-vg.github.io/highstakes/sitemap.xml
