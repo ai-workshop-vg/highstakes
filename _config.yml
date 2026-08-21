@@ -17,8 +17,8 @@ keywords: workshop, NeurIPS 2026, high-stakes AI, foundation models, evaluation,
 lang: en
 icon: ⚠️
 
-url: https://workshop-highstakes-ai.github.io
-baseurl:
+url: https://ai-workshop-vg.github.io
+baseurl: /highstakes
 last_updated: false
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
