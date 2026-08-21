@@ -49,8 +49,10 @@ Each submission will receive at least three reviews from a program committee con
 
 | Milestone | Date (AoE) |
 |:---|:---|
-| Call for Papers Released | July 2026 |
-| Submission Deadline | **Late August 2026** |
-| Review Period | September 2026 |
-| Acceptance Notification | By September 29, 2026 |
-| Workshop Date | **December 2026** |
+| Call for Papers Released | August 2026 |
+| Submission Deadline | **Late October 2026** |
+| Review Period | November 2026 |
+| Acceptance Notification | By November 29, 2026 |
+| Workshop Date | **February 2027** |
+
+
